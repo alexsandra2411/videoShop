@@ -1,0 +1,7 @@
+/build/
+/bin/
+/.gradle/
+/src/main/resources/static/admin/js
+.project
+.classpath
+.settings/
